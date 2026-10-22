@@ -1,0 +1,19 @@
+# Dependencies & build output
+node_modules/
+dist/
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+
+# Environment & Secrets
+.env
+*.pem
+project.pem
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.db
